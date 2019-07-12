@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
+title: MathVidz
+description: A website all about Youtube math. 
+author: ERC
 github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+about: I'm a math enthusiast, coming from the perspective of a learner - not an expert. These are my opinions, feel free to have 
+disqus_shortname: mathvidz
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
